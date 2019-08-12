@@ -1,3 +1,5 @@
+# \[ 🚧 Work in progress 🚧 \]
+
 # Glossary
 
 Glossary is a... dictionary. It's a dictionary.
